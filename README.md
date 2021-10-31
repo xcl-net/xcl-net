@@ -14,4 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: 细节决定成败, 习惯影响人生
 -->
 
+- 🔭 I’m currently working on youlu...
+- 🌱 I’m currently learning asp.net core...
+- 👯 I’m looking to collaborate on 电商项目...
+- 😄 Pronouns: 细节决定成败, 习惯影响人生
+
 ![booms21](https://github-readme-stats.vercel.app/api?username=xcl-net&show_icons=true&include_all_commits=true?count_private=true?include_all_commits=true&theme=vue)
